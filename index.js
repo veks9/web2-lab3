@@ -1,7 +1,6 @@
 const express = require("express");
 var cors = require("cors");
 const fs = require("fs");
-const history = require('connect-history-api-fallback');
 
 let recordCollection;
 fs.readFile("./recordCollection.json", function (err, data) {
@@ -16,9 +15,6 @@ fs.readFile("./recordCollection.json", function (err, data) {
 });
 
 const app = express();
-app.use(history({
-  verbose: true
-}));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors());
 
