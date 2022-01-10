@@ -27,7 +27,7 @@ const port = process.env.PORT || 8888;
 if (process.env.PORT) {
   app.listen(process.env.PORT);
 } else {
-  app.listen(port, hostname, () => {
-      console.log(`Server running at http://${this.address().address}:${this.address().port}`);
+  app.listen(port, () => {
+      console.log(`Server running at http://localhost:${port}`);
   });
 };
