@@ -1,0 +1,123 @@
+[
+    {
+        "artist": "Coldplay",
+        "title": "X&Y",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Coldplay_X%26Y.svg/1200px-Coldplay_X%26Y.svg.png" 
+    },
+    {
+        "artist": "Coldplay",
+        "title": "Music of Spheres",
+        "cover": "https://m.media-amazon.com/images/I/71bR67Ia7YL._AC_SL1425_.jpg" 
+    },
+    {
+        "artist": "Oasis",
+        "title": "Definitely Maybe",
+        "cover": "https://pics.mercatinomusicale.com/p_hr/09/08/3070809_1614302638.jpg" 
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "title": "Rumours",
+        "cover": "https://m.media-amazon.com/images/I/71BekDJBb3L._AC_SL1425_.jpg" 
+    },
+    {
+        "artist": "Nirvana",
+        "title": "MTV Unplugged in New York",
+        "cover": "https://m.media-amazon.com/images/I/81vS+wfdozL._AC_SL1400_.jpg" 
+    },
+    {
+        "artist": "Queen",
+        "title": "Greatest Hits II",
+        "cover": "https://dvfnvgxhycwzf.cloudfront.net/media/SharedImage/imageFull/.f795-N2T/SharedImage-13049.jpg?t=fc5655c20084b7fba6d8" 
+    },
+    {
+        "artist": "Coldplay",
+        "title": "Parachutes",
+        "cover": "https://img.discogs.com/4jwEExOZJ_tCj_AmLWJ-ou1JbNk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369337-1314899458.jpeg.jpg" 
+    },
+    {
+        "artist": "Harry Styles",
+        "title": "Fine Line",
+        "cover": "https://m.media-amazon.com/images/I/61v6lSOpccL._AC_SL1500_.jpg" 
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "title": "AM",
+        "cover": "https://m.media-amazon.com/images/I/71hEtk3aCpL._AC_SY450_.jpg" 
+    },
+    {
+        "artist": "twenty one pilots",
+        "title": "Blurryface",
+        "cover": "https://m.media-amazon.com/images/I/71k-5WHYB9L._AC_SL1425_.jpg" 
+    },
+    {
+        "artist": "twenty one pilots",
+        "title": "Vessel",
+        "cover": "https://m.media-amazon.com/images/I/61ocXGV-t1L._AC_SL1425_.jpg" 
+    },
+    {
+        "artist": "twenty one pilots",
+        "title": "Scaled and Icy",
+        "cover": "https://m.media-amazon.com/images/I/81BOaYiKa1L._AC_SY450_.jpg" 
+    },
+    {
+        "artist": "twenty one pilots",
+        "title": "Trench",
+        "cover": "https://m.media-amazon.com/images/I/81ucF7MxoeL._AC_SL1441_.jpg" 
+    },
+    {
+        "artist": "Tram11",
+        "title": "Čovječe, ne ljuti se",
+        "cover": "https://m.media-amazon.com/images/I/919C1ViyBAL._SS500_.jpg" 
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "title": "good kid, m.A.A.d city",
+        "cover": "https://m.media-amazon.com/images/I/51CgMxpH7RL._AC_SX425_.jpg" 
+    },
+    {
+        "artist": "Drake",
+        "title": "Views",
+        "cover": "https://m.media-amazon.com/images/I/71fXWX04klL._AC_SY450_.jpg" 
+    },
+    {
+        "artist": "Pulp Fiction",
+        "title": "Soundtrack",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/0/06/Pulp_Fiction_%28Soundtrack%29.png" 
+    },
+    {
+        "artist": "Coldplay",
+        "title": "Kaleidoscope EP",
+        "cover": "https://m.media-amazon.com/images/I/71je6ow5OjL._AC_SX679_.jpg" 
+    },
+    {
+        "artist": "Daleka Obala",
+        "title": "Uspomena",
+        "cover": "https://img.discogs.com/QXRfnSyvwhlzR8rsb7DM7noFYH4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14540471-1601728744-5255.jpeg.jpg" 
+    },
+    {
+        "artist": "Azra",
+        "title": "Filigranski Pločnici",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/6/61/Cover_of_Filigranski_plocnici%2C_by_Azra.jpg" 
+    },
+    {
+        "artist": "Rod Stewart",
+        "title": "Greatest Hits",
+        "cover": "https://img.discogs.com/EZ3PCAm9A_c0UF_f2K9HXs4on-g=/fit-in/600x600/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-552490-1546891255-3721.jpeg.jpg" 
+    },
+    {
+        "artist": "Kaleo",
+        "title": "A/B",
+        "cover": "https://m.media-amazon.com/images/I/81oLq85H-CL._AC_SL1425_.jpg" 
+    },
+    {
+        "artist": "The Doors",
+        "title": "The Doors(Soundtrack)",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/9/9b/Thedoors_soundtrack.jpg" 
+    },
+    {
+        "artist": "Red Hot Chilli Peppers",
+        "title": "Greatest Hits",
+        "cover": "https://m.media-amazon.com/images/I/81hYDmwXtaL._AC_SY355_.jpg" 
+    }
+
+]
