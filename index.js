@@ -1,10 +1,9 @@
 const express = require("express");
-const path = require("path");
 var cors = require("cors");
 const fs = require("fs");
 
 let recordCollection;
-fs.readFile("recordCollection.json", function (err, data) {
+fs.readFile("./recordCollection.json", function (err, data) {
   recordCollection = JSON.parse(data);
 
   recordCollection = recordCollection.map(function (record, index) {
