@@ -19,7 +19,7 @@ const app = express();
 app.use(history({
   verbose: true
 }));
-app.use(express.static('public'));
+app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors());
 
 app.get("/recordCollection", function (req, res) {
