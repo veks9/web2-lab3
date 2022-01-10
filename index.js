@@ -22,7 +22,11 @@ app.get("/recordCollection", function (req, res) {
   res.json(recordCollection);
 });
 
-const port = process.env.PORT || 8888
-app.listen(port, function () {
-  console.log(`Server listening on http://${this.address().address}:${this.address().port}`);
-});
+const port = process.env.PORT || 8888;
+if (process.env.PORT) {
+  app.listen(process.env.PORT);
+} else {
+  app.listen(port, hostname, () => {
+      console.log(`Server running at http://${this.address().address}:${this.address().port}`);
+  });
+};
